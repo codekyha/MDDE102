@@ -1,6 +1,6 @@
 MDDE102 Sinyal İşleme - Ders Sunumları 
 
-Bu depo, İstanbul Okan Üniversitesi Meslek Yüksekokulu, Elektronik Haberleşme Teknolojileri programı kapsamında verilen MDDE102 Sinyal İşleme dersinin ilk 4 haftasına ait sunum dosyalarını içermektedir.
+Bu depo, İstanbul Okan Üniversitesi Meslek Yüksekokulu, Elektronik Haberleşme Teknolojileri programı kapsamında verilen MDDE102 Sinyal İşleme dersini sunum dosyalarını pdf ve latex kaynak dosyası olarak içermektedir.
 
 📌 Ders Hakkında
 
